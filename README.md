@@ -1,1 +1,1 @@
-# A-algorithm-implementation-for-Bridge-Crossing-Game-
+# AI-Bridge-Crossing-Puzzle-
