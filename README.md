@@ -1,2 +1,2 @@
-# AI-Bridge-Crossing-Puzzle-Solver-
+# AI-Missionaries-and-Cannibals-Problem-Solver-
 This is a part of the project I made for the Artificial Intelligence class alongside my team. This programm finds the best solution, in a very sort time, for the [Missionaries and cannibals problem](https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem) using the A star algorithm. You can read the README.txt file to see how it works and use it yourself. 
